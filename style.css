@@ -1,0 +1,8 @@
+@font-face {
+    font-family: mahdojan;
+    src: url(fonts/Jogjakartype.ttf);
+}
+
+.mahdojan-font{
+    font-family: mahdojan;
+}
